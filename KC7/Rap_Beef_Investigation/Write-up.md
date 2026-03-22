@@ -64,7 +64,7 @@ InboundNetworkEvents
 ```
 
 **Output:**  
-_Add screenshot or notes here._
+![InboundNetworkEvents](screenshots/1.png)
 
 ### 2. Looking for searches related to the exposed information
 ```kql
@@ -75,7 +75,7 @@ InboundNetworkEvents
 ```
 
 **Output:**  
-_Add screenshot or notes here._
+![InboundNetworkEvents2](screenshots/2.png)
 
 ### 3. Resolving the suspicious IP to a domain
 ```kql
@@ -84,7 +84,7 @@ PassiveDns
 ```
 
 **Output:**  
-_Add screenshot or notes here._
+![PassiveDns](screenshots/3.png)
 
 ### 4. Finding phishing emails linked to the malicious domain
 ```kql
@@ -93,7 +93,7 @@ Email
 ```
 
 **Output:**  
-
+![Email](screenshots/4.png)
 
 ### 5. Identifying users targeted by the phishing campaign
 ```kql
@@ -106,7 +106,7 @@ Employees
 ```
 
 **Output:**  
-_Add screenshot or notes here._
+![_targets](screenshots/5.png)
 
 ### 6. Confirming interaction with the phishing page
 ```kql
@@ -116,7 +116,7 @@ OutboundNetworkEvents
 ```
 
 **Output:**  
-_Add screenshot or notes here._
+![OutboundNetworkEvents](screenshots/6.png)
 
 ### 7. Verifying the account compromise
 ```kql
@@ -126,7 +126,7 @@ AuthenticationEvents
 ```
 
 **Output:**  
-_Add screenshot or notes here._
+![AuthenticationEvents](screenshots/7.png)
 
 ### 8. Reviewing post-compromise activity
 ```kql
@@ -137,7 +137,7 @@ InboundNetworkEvents
 ```
 
 **Output:**  
-_Add screenshot or notes here._
+![InboundNetworkEvents3](screenshots/8.png)
 
 ---
 

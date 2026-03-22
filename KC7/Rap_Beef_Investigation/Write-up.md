@@ -93,7 +93,7 @@ Email
 ```
 
 **Output:**  
-_Add screenshot or notes here._
+
 
 ### 5. Identifying users targeted by the phishing campaign
 ```kql
@@ -158,4 +158,4 @@ Even so, the scenario was creative, easy to follow, and enjoyable to complete. I
 ---
 
 ## Final Thoughts
-**Rap Beef** is a beginner-friendly KC7 scenario that introduces investigation flow in a light and accessible way. While it does not feel like a difficult lab, it still provides a decent introduction to phishing analysis and working with structured query-based investigation data.
+Rap Beef was more of a guided introduction than a real challenge, but it was still a fun way to get familiar with how KC7 presents investigations. The scenario was simple, a bit unusual, and a decent starting point for practicing basic phishing analysis with KQL.
